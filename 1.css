@@ -456,7 +456,8 @@ svg{
 
 /* tech */
 #tech{
-    background-color: #1976d2;
+/*     background-color: #1976d2; */
+    bacground: #4cb0e6;
     color: #fff ;
     position: relative;
 }
@@ -480,7 +481,9 @@ svg{
     /* flex-wrap: wrap; */
     text-align: center;
     gap: 20px;
-    background: #1976d2 ;
+/*     background: #1976d2 ; */
+    bacground: #4cb0e6;
+    
     
 }
 .tech_cards_sub{
@@ -490,6 +493,8 @@ svg{
     border-radius: 5px;
     position: relative;
     width: 170px;
+    bacground: #4cb0e6;
+    
     /* flex-grow: 1; */
 }
 .tech_cards_sub:hover{
